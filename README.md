@@ -56,7 +56,7 @@ sudo pacman -S kitty
    cp kitty.conf ~/.config/kitty/kitty.conf
    ```
 
-3. **Download Catppuccin Mocha theme:**
+3. **Download Catppuccin Mocha theme OR SET IT USING kitty +kitten themes:**
    ```bash
    cd ~/.config/kitty
    curl -O https://raw.githubusercontent.com/catppuccin/kitty/main/themes/mocha.conf

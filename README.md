@@ -2,6 +2,14 @@
 
 A highly optimized Kitty terminal configuration with advanced window management, beautiful theming, and powerful productivity features.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jTrOj2LVy28?si=_OPnA8fKL9tANR1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jTrOj2LVy28">
+    <img src="https://www.youtube.com/watch?v=jTrOj2LVy28" alt="Video Thumbnail">
+  </a>
+</p>
+
 ## Table of Contents
 
 - [Installation](#installation)
